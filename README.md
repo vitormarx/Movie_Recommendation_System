@@ -13,4 +13,4 @@ The dataset can be found at the <a href='https://www.kaggle.com/datasets/tmdb/tm
 
 # Interface
 
-<img src=/contents/img/sample.PNG></img>
+<img src=/sample.PNG></img>
